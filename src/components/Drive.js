@@ -88,7 +88,7 @@ const DrivePage = () => {
                 <div style={styles.modalBackdrop}>
                     <div style={styles.modalContent}>
                         <motion.img
-                            src="https://media.tenor.com/57Cq5qVvgTUAAAAM/lil-kid-chilling-chilling-on-couch.gif" // Replace with your GIF link
+                            src="https://i.pinimg.com/236x/a8/65/93/a86593e638f733e3fa2fb4050e412c47.jpg" // Replace with your GIF link
                             alt="Fun GIF"
                             style={styles.modalImage}
                             initial={{ opacity: 0 }}
